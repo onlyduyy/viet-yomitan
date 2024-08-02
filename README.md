@@ -3,8 +3,9 @@ A collection of Vietnamese dictionaries for Yomitan
 
 
 ## My collection
-- [Lac Viet Vietnamese - English](dicts/lacviet_vi-en.zip)
-- [Prodict VI-EN EN-VI](dicts/prodict_vi-en.zip)
+- [Lac Viet Vietnamese - English]() - currently working on it.
+- [Prodict VI-EN EN-VI](https://github.com/onlyduyy/viet-yomitan/releases/download/v0.0.1/prodict_vi-en.zip)
+- [Free Vietnamese-English Dictionary](https://github.com/onlyduyy/viet-yomitan/releases/download/v0.0.1/free_vi-en_dictionary.zip)
 
 
 ## Other 
