@@ -7,8 +7,9 @@ A collection of Vietnamese dictionaries for Yomitan
 - [Hồ Ngọc Đức's Vietnamese - English Dictionary](dictionaries/dictd_viet-anh.zip) -  This dictionary is from 'The Free Vietnamese Dictionary Project' by the author [Hồ Ngọc Đức](https://www.informatik.uni-leipzig.de/~duc/Dict/install.html)
 - [OVDP Vietnamese - English Dictionary](dictionaries/ovdp-vi-en-v2.zip) - From [OVDP (Open Vietnamese Dictionary Project)](https://github.com/dynamotn/stardict-vi).
 - [SPDict Vietnamese - English Dictionary](dictionaries/spdict-viet-anh.zip) - From [Super Power Dict For Java](https://download.com.vn/super-power-dict-for-java-27941) by Bùi Đức Tiến, an open-source Vietnamese dictionary 
+- [Apple Vietnamese-English Dictionary](dictionaries/apple-vi-en.zip)
 - [Free Vietnamese-English Dictionary](dictionaries/free_vi-en_dictionary.zip)
-- [Prodict's Vietnamese - English Billingual Dictionary](dictionaries/prodict_vi-en.zip)
+
 
 ## Monolingual dictionaries
 - [Từ điển Tiếng Việt thông dụng](dictionaries/tu-dien-tieng-viet-thong-dung.zip) - Vie-Vie dictionary converted by Marsh Nguyễn. The dictionary data is from Từ Điển Tiếng Việt Thông Dụng and was sourced from https://github.com/vntk/dictionary/tree/master/data contains 42012 entries.
